@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bee474ee99fd8804aeed329f2f6c700b",
+    "revision": "5dac7846410672da6a5711457fd7a76b",
     "url": "/racing/index.html"
   },
   {
-    "revision": "f88daa14531adf2c965c",
+    "revision": "9efb598d044ae804f00b",
     "url": "/racing/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "78d145deba4d22bdb5ba",
+    "revision": "e343e9e1e8e024426683",
     "url": "/racing/static/css/main.bcc844de.chunk.css"
   },
   {
-    "revision": "f88daa14531adf2c965c",
-    "url": "/racing/static/js/2.7c38c26d.chunk.js"
+    "revision": "9efb598d044ae804f00b",
+    "url": "/racing/static/js/2.1fbfd67d.chunk.js"
   },
   {
     "revision": "95fe7b47190d8ffb46ace11b00922862",
-    "url": "/racing/static/js/2.7c38c26d.chunk.js.LICENSE.txt"
+    "url": "/racing/static/js/2.1fbfd67d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78d145deba4d22bdb5ba",
-    "url": "/racing/static/js/main.9b3ed7e6.chunk.js"
+    "revision": "e343e9e1e8e024426683",
+    "url": "/racing/static/js/main.a5818084.chunk.js"
   },
   {
     "revision": "370da678bf6652f83223",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3253e81b84128aec04604ce80abc1162",
     "url": "/racing/static/media/racingTable.3253e81b.jpeg"
+  },
+  {
+    "revision": "226675e311cfc9e72a86811c7d3158b4",
+    "url": "/racing/static/media/report_1.226675e3.jpeg"
   }
 ]);
