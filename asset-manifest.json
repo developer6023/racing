@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/racing/static/css/main.bcc844de.chunk.css",
-    "main.js": "/racing/static/js/main.a5818084.chunk.js",
-    "main.js.map": "/racing/static/js/main.a5818084.chunk.js.map",
+    "main.css": "/racing/static/css/main.e66f6a76.chunk.css",
+    "main.js": "/racing/static/js/main.728db597.chunk.js",
+    "main.js.map": "/racing/static/js/main.728db597.chunk.js.map",
     "runtime-main.js": "/racing/static/js/runtime-main.7d5592e1.js",
     "runtime-main.js.map": "/racing/static/js/runtime-main.7d5592e1.js.map",
     "static/css/2.de424728.chunk.css": "/racing/static/css/2.de424728.chunk.css",
-    "static/js/2.1fbfd67d.chunk.js": "/racing/static/js/2.1fbfd67d.chunk.js",
-    "static/js/2.1fbfd67d.chunk.js.map": "/racing/static/js/2.1fbfd67d.chunk.js.map",
+    "static/js/2.fc86bfaa.chunk.js": "/racing/static/js/2.fc86bfaa.chunk.js",
+    "static/js/2.fc86bfaa.chunk.js.map": "/racing/static/js/2.fc86bfaa.chunk.js.map",
     "index.html": "/racing/index.html",
-    "precache-manifest.f0a2004001b1c37d58c12bc324f931ad.js": "/racing/precache-manifest.f0a2004001b1c37d58c12bc324f931ad.js",
+    "precache-manifest.ea34408a72c31a6a88e77c240d338af7.js": "/racing/precache-manifest.ea34408a72c31a6a88e77c240d338af7.js",
     "service-worker.js": "/racing/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/racing/static/css/2.de424728.chunk.css.map",
-    "static/css/main.bcc844de.chunk.css.map": "/racing/static/css/main.bcc844de.chunk.css.map",
-    "static/js/2.1fbfd67d.chunk.js.LICENSE.txt": "/racing/static/js/2.1fbfd67d.chunk.js.LICENSE.txt",
+    "static/css/main.e66f6a76.chunk.css.map": "/racing/static/css/main.e66f6a76.chunk.css.map",
+    "static/js/2.fc86bfaa.chunk.js.LICENSE.txt": "/racing/static/js/2.fc86bfaa.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/racing/static/media/img1.bb2db0df.jpg",
+    "static/media/img2.jpg": "/racing/static/media/img2.ff15bcf0.jpg",
+    "static/media/img3.jpg": "/racing/static/media/img3.0049a004.jpg",
     "static/media/App.css": "/racing/static/media/logo.21df5285.jpeg",
-    "static/media/racingTable.jpeg": "/racing/static/media/racingTable.3253e81b.jpeg",
-    "static/media/report_1.jpeg": "/racing/static/media/report_1.226675e3.jpeg"
+    "static/media/racingTable.jpeg": "/racing/static/media/racingTable.3253e81b.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.7d5592e1.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.1fbfd67d.chunk.js",
-    "static/css/main.bcc844de.chunk.css",
-    "static/js/main.a5818084.chunk.js"
+    "static/js/2.fc86bfaa.chunk.js",
+    "static/css/main.e66f6a76.chunk.css",
+    "static/js/main.728db597.chunk.js"
   ]
 }
