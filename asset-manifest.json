@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/racing/static/css/main.68dd2133.chunk.css",
-    "main.js": "/racing/static/js/main.4b3d974f.chunk.js",
-    "main.js.map": "/racing/static/js/main.4b3d974f.chunk.js.map",
+    "main.js": "/racing/static/js/main.1a4d68f5.chunk.js",
+    "main.js.map": "/racing/static/js/main.1a4d68f5.chunk.js.map",
     "runtime-main.js": "/racing/static/js/runtime-main.7d5592e1.js",
     "runtime-main.js.map": "/racing/static/js/runtime-main.7d5592e1.js.map",
     "static/css/2.de424728.chunk.css": "/racing/static/css/2.de424728.chunk.css",
     "static/js/2.90fbd8dd.chunk.js": "/racing/static/js/2.90fbd8dd.chunk.js",
     "static/js/2.90fbd8dd.chunk.js.map": "/racing/static/js/2.90fbd8dd.chunk.js.map",
     "index.html": "/racing/index.html",
-    "precache-manifest.a36c15542a8a2c5cbaefaf9f861cee5d.js": "/racing/precache-manifest.a36c15542a8a2c5cbaefaf9f861cee5d.js",
+    "precache-manifest.412ab7e36fbd302307d65468147fbcdf.js": "/racing/precache-manifest.412ab7e36fbd302307d65468147fbcdf.js",
     "service-worker.js": "/racing/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/racing/static/css/2.de424728.chunk.css.map",
     "static/css/main.68dd2133.chunk.css.map": "/racing/static/css/main.68dd2133.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.90fbd8dd.chunk.js",
     "static/css/main.68dd2133.chunk.css",
-    "static/js/main.4b3d974f.chunk.js"
+    "static/js/main.1a4d68f5.chunk.js"
   ]
 }
