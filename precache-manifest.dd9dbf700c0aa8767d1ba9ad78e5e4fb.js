@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77a86184a3eb3462db3c6cced275e52a",
+    "revision": "abfd4f1aec6c2af327eb650436ed81e3",
     "url": "/racing/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/racing/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "2c0ebad947ef15cc7e7f",
+    "revision": "13d51823500f63585cc8",
     "url": "/racing/static/css/main.0c3fc11a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/racing/static/js/2.90fbd8dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c0ebad947ef15cc7e7f",
-    "url": "/racing/static/js/main.187a8c25.chunk.js"
+    "revision": "13d51823500f63585cc8",
+    "url": "/racing/static/js/main.13490b6e.chunk.js"
   },
   {
     "revision": "370da678bf6652f83223",
