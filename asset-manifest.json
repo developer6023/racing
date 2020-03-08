@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/racing/static/css/main.0c3fc11a.chunk.css",
+    "main.css": "/racing/static/css/main.1711ae2b.chunk.css",
     "main.js": "/racing/static/js/main.13490b6e.chunk.js",
     "main.js.map": "/racing/static/js/main.13490b6e.chunk.js.map",
     "runtime-main.js": "/racing/static/js/runtime-main.7d5592e1.js",
@@ -9,10 +9,10 @@
     "static/js/2.90fbd8dd.chunk.js": "/racing/static/js/2.90fbd8dd.chunk.js",
     "static/js/2.90fbd8dd.chunk.js.map": "/racing/static/js/2.90fbd8dd.chunk.js.map",
     "index.html": "/racing/index.html",
-    "precache-manifest.dd9dbf700c0aa8767d1ba9ad78e5e4fb.js": "/racing/precache-manifest.dd9dbf700c0aa8767d1ba9ad78e5e4fb.js",
+    "precache-manifest.a907d8285235c54032c349ba06be801a.js": "/racing/precache-manifest.a907d8285235c54032c349ba06be801a.js",
     "service-worker.js": "/racing/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/racing/static/css/2.de424728.chunk.css.map",
-    "static/css/main.0c3fc11a.chunk.css.map": "/racing/static/css/main.0c3fc11a.chunk.css.map",
+    "static/css/main.1711ae2b.chunk.css.map": "/racing/static/css/main.1711ae2b.chunk.css.map",
     "static/js/2.90fbd8dd.chunk.js.LICENSE.txt": "/racing/static/js/2.90fbd8dd.chunk.js.LICENSE.txt",
     "static/media/img1.jpg": "/racing/static/media/img1.bb2db0df.jpg",
     "static/media/img2.jpg": "/racing/static/media/img2.ff15bcf0.jpg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.7d5592e1.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.90fbd8dd.chunk.js",
-    "static/css/main.0c3fc11a.chunk.css",
+    "static/css/main.1711ae2b.chunk.css",
     "static/js/main.13490b6e.chunk.js"
   ]
 }
